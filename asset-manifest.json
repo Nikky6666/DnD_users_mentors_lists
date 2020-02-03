@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DnD_users_mentors_lists/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/DnD_users_mentors_lists/static/js/main.929162a1.chunk.js",
+    "main.js.map": "/DnD_users_mentors_lists/static/js/main.929162a1.chunk.js.map",
+    "runtime-main.js": "/DnD_users_mentors_lists/static/js/runtime-main.365f1058.js",
+    "runtime-main.js.map": "/DnD_users_mentors_lists/static/js/runtime-main.365f1058.js.map",
+    "static/js/2.958fd34b.chunk.js": "/DnD_users_mentors_lists/static/js/2.958fd34b.chunk.js",
+    "static/js/2.958fd34b.chunk.js.map": "/DnD_users_mentors_lists/static/js/2.958fd34b.chunk.js.map",
+    "index.html": "/DnD_users_mentors_lists/index.html",
+    "precache-manifest.481eac940fdf978d900ecfd8f1abe85c.js": "/DnD_users_mentors_lists/precache-manifest.481eac940fdf978d900ecfd8f1abe85c.js",
+    "service-worker.js": "/DnD_users_mentors_lists/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/DnD_users_mentors_lists/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.958fd34b.chunk.js.LICENSE": "/DnD_users_mentors_lists/static/js/2.958fd34b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.365f1058.js",
+    "static/js/2.958fd34b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.929162a1.chunk.js"
+  ]
+}
